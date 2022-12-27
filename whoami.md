@@ -10,4 +10,4 @@ r-s-sacheth/r-s-sacheth is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://www.instagram.com/r_s_sacheth/" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="22" width="22"/> </a>
-<a href="https://twitter.com/sacheth_r/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="22" width"22"/> </a>
+<a href="https://twitter.com/sacheth_r/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="22" width="22"/> </a>
